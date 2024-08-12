@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "138355725226",
+    "project_id": "wsmbfirst",
+    "storage_bucket": "wsmbfirst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138355725226:android:faef9ef2f2565923b191d3",
+        "android_client_info": {
+          "package_name": "com.example.mobile_wsmb2024_07"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ZBx847cls7cOIpr9TQcLJAuQsJjAbzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138355725226:android:5f03b57513e7599cb191d3",
+        "android_client_info": {
+          "package_name": "com.example.mobilewsmb202407"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ZBx847cls7cOIpr9TQcLJAuQsJjAbzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138355725226:android:10a450d1e0f0ea24b191d3",
+        "android_client_info": {
+          "package_name": "com.example.mobilewsmb202407day2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ZBx847cls7cOIpr9TQcLJAuQsJjAbzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
